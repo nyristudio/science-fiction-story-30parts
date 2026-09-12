@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:12,000
+Gemi Kızıl Gezegen'e yaklaşıyor. Yüzey kırmızı kumla kapl, dağlar ve vadilerle dolu.
+Nova: İniş hazırlığı başlıyor.
+
+2
+00:00:12,000 --> 00:00:25,000
+Gemi ağır ağır iniyor. Kum fırtınası hava kabarcığını çalkalıyor.
+Zey: Bu gezegendeki görünürlük çok düşük. Nova, sensörleri açabilir misin?
+
+3
+00:00:25,000 --> 00:00:40,000
+Gemi inişe geçiyor. Alüminyum kapısı açılıyor.
+Zey: Koruma giyisini tak. Atmosfer zehirli olabilir.
+Zey ihtiyatlı adımlarla çıkıyor.
+
+4
+00:00:40,000 --> 00:00:55,000
+Kum üzerinde yürürken, parlayan kristal yapılar fark ediyor.
+Zey: Bak! Bu nedir? Doğal mı?
+Nova: Analiz ediyorum... Bilinmeyen bir tür malzeme!
+
+5
+00:00:55,000 --> 00:01:00,000
+Birden yerde ışıklar yanıyor. Kristal bir yapı parlıyor.
+Zey: Nova! Oraya bak!
+Gizem derinleşiyor.

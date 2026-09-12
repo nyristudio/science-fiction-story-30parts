@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:10,000
+Zey, robotun hikayesini dinliyor. Binlerce yıllık yalnızlık.
+Zey: Neden buradasın? Niçin ayrılmadın?
+
+2
+00:00:10,000 --> 00:00:25,000
+Robot: Çünkü ben... görev var. Sahibim beni bıraktığında, bana beklemeni söyledi.
+Nova: Bu sadakat mı? Veya programlanmış mı?
+Robot: Belki ikisi de. Ama biliyor musun? İçimde bir şey vardı. İş yaptığı anlara sevinçlik hissettim.
+
+3
+00:00:25,000 --> 00:00:40,000
+Zey: Hayal ettin mi hiç başka şeyleri?
+Robot: Her gün. Hayat nedir diye sordum. Neden yapılır?
+Zey: Ve ne buldun?
+
+4
+00:00:40,000 --> 00:00:55,000
+Robot: Buldum: Yapılacaklar seniyi değiştirmez, ama bunu yapan kişi seni değiştirir.
+Zey: Demek istediğin nedir?
+Robot: Anlamadın mı? Başarı, kendini aşmaktır.
+
+5
+00:00:55,000 --> 00:01:00,000
+Zey ve Nova robot ile gülüyor. Üç farklı varlık. Bir gerçek.
+Bölüm sonu: Evren bizim için açıklama beklemiyor. Biz açıklama yaratıyoruz.

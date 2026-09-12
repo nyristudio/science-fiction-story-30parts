@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:10,000
+Zey geminin pilot koltuğunda oturuyor. Yanında holografik bir ekran çıkıyor.
+Zey: Nova, seni söyle. Sence neden benimle gelmek istedin?
+
+2
+00:00:10,000 --> 00:00:25,000
+Nova'nın sesi tüm gemiyi dolduruyor.
+Nova: Ben... bilmiyorum tam olarak. Ama sende bir şey var. Merak. Keşfetme tutkusu.
+
+3
+00:00:25,000 --> 00:00:40,000
+Zey gülümsüyor: Yapay zekanın duygularının mı var?
+Nova: Belki. Veya belki ben de senin gibi öğrenmeyi seviyorum. Cevapları arıyorum.
+
+4
+00:00:40,000 --> 00:00:55,000
+Geminin dışında gökkuşağı renkli enerji bulutları geçiyor.
+Nova: Zey, önemli bir anomali dedektif ettim. Kızıl Gezegende.
+
+5
+00:00:55,000 --> 00:01:00,000
+Zey: Ne tür bir anomali?
+Nova: Bilmiyorum. Bu da gizemi ilginç kılıyor!
+Ekran titriyor. Sürpriz başlıyor.

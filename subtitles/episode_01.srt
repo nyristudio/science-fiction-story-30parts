@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:10,000
+Zey, tüm hayalının karşısında duruyor: Kendi uzay gemisi!
+İşıl ışıl bir mavi gemi, yıldızların arasında uçmaya hazır.
+
+2
+00:00:10,000 --> 00:00:25,000
+Zey: Sonunda! Mükemmel. Nova, sistemleri kontrol edebilir misin?
+Nova (yapay zeka): Elbette Zey! Tüm sistemler yeşil. Nereye gitmek istiyorsun?
+
+3
+00:00:25,000 --> 00:00:40,000
+Zey pencereden dışarı bakıyor. Binlerce yıldız parıltılı bir gökyüzü ona karşılıyor.
+Zey: Bilmiyorum... ama keşfetmek için hazırım!
+
+4
+00:00:40,000 --> 00:00:55,000
+Gemi yukarıya doğru hızlanıyor. Dünya gittikçe küçülüyor arkada.
+Nova: İlk hedef belirlendi: Kızıl Gezegen! Seyahat süresi 2 gün.
+
+5
+00:00:55,000 --> 00:01:00,000
+Gemi parlak bir ışın içinde galaksiyi geçiyor.
+Başlık: UZAY YOLCUSU ZEY'İN MACRALARI - BÖLÜM 1
