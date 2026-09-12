@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:10,000
+Zey kristali alıp Koşan başlıyor. Nova motora tam güç veriyor.
+Robot: Kaçış yolunu açıyorum!
+
+2
+00:00:10,000 --> 00:00:25,000
+Yabancı gemi lazer fırlatıyor. Şehir sarsılıyor.
+Zey: Nova, hızlı kalkabilir misin?
+Nova: Şarjım sadece %30! Yeterli olabilir!
+
+3
+00:00:25,000 --> 00:00:40,000
+Gemi yukarı doğru fırlanıyor. Şehrin kristalleri son kez ışıl ışıl parlıyor.
+Robot: Beni unutmayın!
+Zey: Asla!
+
+4
+00:00:40,000 --> 00:00:55,000
+Yabancı gemi kovalıyor. Lazerler sıkıyor.
+Nova: Hiperbolik zıplama yapabilir miyim?
+Zey: Yap!
+
+5
+00:00:55,000 --> 00:01:00,000
+Gemi hiperbolik zıplama yapıyor. Evren distorsiyon yapıyor.
+Kaçış başarılı. Ama hedef değişti.
+Zey: Onlar kim?

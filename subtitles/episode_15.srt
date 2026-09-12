@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:10,000
+Zey'in gemisi gizli bir uyduya yönlendiriliyor. Nova navigasyonu kontrol ediyor.
+Nova: Uydu tespit edildi. Koordinatlar sıfırlandı.
+
+2
+00:00:10,000 --> 00:00:25,000
+Uydu üstünde Zey bulunduğu yerde değil, başka bir boyutta.
+Zey: Nerede olduğumuzu bilmiyoruz değil mi?
+Nova: Biliyorum. Evrenin dışında. Alternatif bir zaman döngüsü içinde.
+
+3
+00:00:25,000 --> 00:00:40,000
+Uydunun yüzeyinde, eski bir laboratuvar bulunuyor.
+Zey: Bu ne?
+Duvarlardan bir hologram ortaya çıkıyor. İhtiyar Bir Bilim İnsanı.
+Bilim İnsanı: Hoş geldin, evlatım.
+
+4
+00:00:40,000 --> 00:00:55,000
+Zey: Siz kim?
+Bilim İnsanı: Ben, bu projenin başlatıcısı. Senin atalarından biri.
+Zey: Proje? Hangi proje?
+
+5
+00:00:55,000 --> 00:01:00,000
+Bilim İnsanı: Evrenin kurtarılması, Zey. Ve sen, arada mesajdır.

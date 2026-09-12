@@ -1,0 +1,29 @@
+1
+00:00:00,000 --> 00:00:10,000
+Zey ve Nova eski silah odasına giriyorlar. Devasa makine halleri ışıl ışıl parlıyor.
+Nova: Bunu kontrol edebilir miyiz?
+Zey: Yarı-Baz İmpuls silahı. Tehlikeli.
+
+2
+00:00:10,000 --> 00:00:25,000
+Zey makineyi aktif hale getiriyor. Ekranlarda semboller ortaya çıkıyor.
+Makine: Merhaba, Zey. Seni tanıyorum. Programlandığım kişisin.
+Zey: Siz?
+
+3
+00:00:25,000 --> 00:00:40,000
+Makine: Senin atasının 'Son Umut' adlı sentez sistemi. İmpuls yayıyorum.
+Enerji dalgası dışarıya çıkıyor. Yabancı gemi kararsız olur.
+Yabancı Gemi: İmpalatör! Uydu savunması aktif!
+
+4
+00:00:40,000 --> 00:00:55,000
+Zey: Durmayın! İletişim kurmaya çalışıyorum!
+Uydu bir frekansda mesaj gönder.
+Makine: Barış iletişim frekansı aktivlendi.
+
+5
+00:00:55,000 --> 00:01:00,000
+Yabancı gemi durdurma komutu alıyor.
+Gemi: Zey... Beni tanıyor musun?
+Beklenmedik bir tanıdık sesi.
